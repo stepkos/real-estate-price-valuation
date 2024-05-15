@@ -1,0 +1,15 @@
+# System
+*.DS_STORE
+.Trash-*
+
+# Python
+*.pyc
+*__pycache__*
+
+# Project
+venv/
+data/
+
+# IDE
+.vscode/
+.idea/
