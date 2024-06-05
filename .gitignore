@@ -8,7 +8,7 @@
 
 # Project
 venv/
-data/
+# data/
 
 # IDE
 .vscode/
