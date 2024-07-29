@@ -16,3 +16,6 @@ The scraper project was improved by trained valuation model into software that s
 ### Jakub Stępkowski 
 - Github: [stepkos](https://github.com/stepkos/)
 - LinkedIn: [Jakub Stępkowski](https://www.linkedin.com/in/jakub-stepkowski/)
+
+## License
+This software is intended for educational purposes only. I do not take any responsibility for any consequences resulting from the use or execution of this software. Commercial use is strictly prohibited. If you wish to use this code for purposes other than education, please contact the author for permission.
