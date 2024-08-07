@@ -6,6 +6,7 @@ The data was collected from the otodom website by the scraper that I wrote, <br/
 
 The scraper project was improved by trained valuation model into software that searches for attractive real estate offers and sends email notifications with offers. So we can say the real-estate-price-valuation is a part of the otodom-scraper-enterprice-edition project.
 
+## Heart of the project
 **Notebook:**
 [ml/wro_price_valuation.ipynb](https://github.com/stepkos/real-estate-price-valuation/blob/main/ml/wro_price_valuation.ipynb)
 
